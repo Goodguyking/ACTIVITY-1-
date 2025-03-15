@@ -1,8 +1,0 @@
-{
-  "compilerOptions": {
-    "moduleResolution": "Node",
-    "esModuleInterop": true,
-    "skipLibCheck": true,
-    "strict": true
-  }
-}
